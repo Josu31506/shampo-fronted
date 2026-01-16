@@ -1,3 +1,5 @@
+'use client';
+
 const navItems = [
   { label: 'Inicio', href: '#' },
   { label: 'Productos', href: '#productos' },

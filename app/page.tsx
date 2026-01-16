@@ -1,8 +1,8 @@
-import Header from './sections/Header';
-import Hero from './sections/Hero';
-import BestSellers from './sections/BestSellers';
-import Categories from './sections/Categories';
-import PaymentSection from './sections/PaymentSection';
+import Header from '../sections/Header';
+import Hero from '../sections/Hero';
+import BestSellers from '../sections/BestSellers';
+import Categories from '../sections/Categories';
+import PaymentSection from '../sections/PaymentSection';
 
 function App() {
   return (
